@@ -1,0 +1,16 @@
+p:nth-child(odd) {
+background-color: lightpink;
+font-family: verdana, DejaVu Sans sans-serif;
+}
+#second {
+    color:blue;
+    font-size: 36px;
+}
+.third {
+    font-size: 24px;
+}
+#fourth {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
